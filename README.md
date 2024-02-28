@@ -79,7 +79,10 @@ I'm Alejandro Caceres, a passionate programmer with experience in a variety of w
    - Live demo: https://www.alecaceres.com
    - Description: My personal website built with Next.js, TypeScript, React, Mailgun, and Tailwind CSS.
 
-   <!-- Add more projects here as needed -->
+2. **Chat app**
+   - Repository: [chat-app](https://github.com/alecaceres/chat-app)
+   - Live demo: https://chat-app-i6w9.onrender.com/
+   - Description: Chat app using websockets with Django and social authentication with allauth.
 
 ## Hiring
 
